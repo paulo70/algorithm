@@ -10,4 +10,4 @@ To run this Algorithm you need:
 
 3) Opening this file in your browser and  the console you will be able to see the date
 
-![Alt text](/src/assets/date.png?raw=true "date screen")
+![Alt text](date.png?raw=true "date screen")
